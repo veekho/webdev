@@ -1,0 +1,7 @@
+https://git-scm.com/book/en/v2	Git book
+https://browsersync.io/docs	Browser-sync documentation
+
+https://www.w3.org/TR/html5	HTML standards
+https://caniuse.com	Check which HTML tags are supported by which browser
+https://validator.w3.org	Check markup validity of your HTML
+https://www.w3schools.com/browsers/browsers_stats.asp	Marketshare of browser-space
